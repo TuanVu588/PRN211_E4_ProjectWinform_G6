@@ -30,23 +30,23 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BookGUI));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.label6 = new System.Windows.Forms.Label();
+            this.pnLogin = new System.Windows.Forms.Panel();
+            this.lbLogin = new System.Windows.Forms.Label();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.label5 = new System.Windows.Forms.Label();
+            this.pnDashBoard = new System.Windows.Forms.Panel();
+            this.lbDashBoard = new System.Windows.Forms.Label();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.label4 = new System.Windows.Forms.Label();
+            this.pnUser = new System.Windows.Forms.Panel();
+            this.lbUser = new System.Windows.Forms.Label();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.label2 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.panel2 = new System.Windows.Forms.Panel();
+            this.panelGUI = new System.Windows.Forms.Panel();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.cbCategory = new System.Windows.Forms.ComboBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.lbExit = new System.Windows.Forms.Label();
             this.lbBookList = new System.Windows.Forms.Label();
@@ -64,29 +64,35 @@
             this.lbUserName = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.label3 = new System.Windows.Forms.Label();
+            this.lbBooks = new System.Windows.Forms.Label();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pnLogout = new System.Windows.Forms.Panel();
+            this.lbLogout = new System.Windows.Forms.Label();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
-            this.panel6.SuspendLayout();
+            this.pnLogin.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            this.panel5.SuspendLayout();
+            this.pnDashBoard.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            this.panel4.SuspendLayout();
+            this.pnUser.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.panel2.SuspendLayout();
+            this.panelGUI.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            this.pnLogout.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.InactiveCaptionText;
-            this.panel1.Controls.Add(this.panel6);
-            this.panel1.Controls.Add(this.panel5);
-            this.panel1.Controls.Add(this.panel4);
+            this.panel1.Controls.Add(this.pnLogout);
+            this.panel1.Controls.Add(this.pnLogin);
+            this.panel1.Controls.Add(this.pnDashBoard);
+            this.panel1.Controls.Add(this.pnUser);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Location = new System.Drawing.Point(12, 12);
@@ -94,24 +100,25 @@
             this.panel1.Size = new System.Drawing.Size(282, 837);
             this.panel1.TabIndex = 1;
             // 
-            // panel6
+            // pnLogin
             // 
-            this.panel6.Controls.Add(this.label6);
-            this.panel6.Controls.Add(this.pictureBox6);
-            this.panel6.Location = new System.Drawing.Point(6, 488);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(279, 63);
-            this.panel6.TabIndex = 7;
+            this.pnLogin.Controls.Add(this.lbLogin);
+            this.pnLogin.Controls.Add(this.pictureBox6);
+            this.pnLogin.Location = new System.Drawing.Point(6, 488);
+            this.pnLogin.Name = "pnLogin";
+            this.pnLogin.Size = new System.Drawing.Size(279, 63);
+            this.pnLogin.TabIndex = 7;
             // 
-            // label6
+            // lbLogin
             // 
-            this.label6.Font = new System.Drawing.Font("Century Gothic", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(71, 16);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(130, 40);
-            this.label6.TabIndex = 4;
-            this.label6.Text = "Logout";
+            this.lbLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbLogin.ForeColor = System.Drawing.Color.White;
+            this.lbLogin.Location = new System.Drawing.Point(71, 16);
+            this.lbLogin.Name = "lbLogin";
+            this.lbLogin.Size = new System.Drawing.Size(165, 30);
+            this.lbLogin.TabIndex = 4;
+            this.lbLogin.Text = "Login";
+            this.lbLogin.Click += new System.EventHandler(this.lbLogin_Click);
             // 
             // pictureBox6
             // 
@@ -123,24 +130,24 @@
             this.pictureBox6.TabIndex = 0;
             this.pictureBox6.TabStop = false;
             // 
-            // panel5
+            // pnDashBoard
             // 
-            this.panel5.Controls.Add(this.label5);
-            this.panel5.Controls.Add(this.pictureBox5);
-            this.panel5.Location = new System.Drawing.Point(3, 400);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(279, 63);
-            this.panel5.TabIndex = 6;
+            this.pnDashBoard.Controls.Add(this.lbDashBoard);
+            this.pnDashBoard.Controls.Add(this.pictureBox5);
+            this.pnDashBoard.Location = new System.Drawing.Point(3, 400);
+            this.pnDashBoard.Name = "pnDashBoard";
+            this.pnDashBoard.Size = new System.Drawing.Size(279, 63);
+            this.pnDashBoard.TabIndex = 6;
             // 
-            // label5
+            // lbDashBoard
             // 
-            this.label5.Font = new System.Drawing.Font("Century Gothic", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(70, 12);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(169, 40);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "Dashboard";
+            this.lbDashBoard.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbDashBoard.ForeColor = System.Drawing.Color.White;
+            this.lbDashBoard.Location = new System.Drawing.Point(70, 12);
+            this.lbDashBoard.Name = "lbDashBoard";
+            this.lbDashBoard.Size = new System.Drawing.Size(169, 40);
+            this.lbDashBoard.TabIndex = 4;
+            this.lbDashBoard.Text = "Dashboard";
             // 
             // pictureBox5
             // 
@@ -152,24 +159,25 @@
             this.pictureBox5.TabIndex = 0;
             this.pictureBox5.TabStop = false;
             // 
-            // panel4
+            // pnUser
             // 
-            this.panel4.Controls.Add(this.label4);
-            this.panel4.Controls.Add(this.pictureBox4);
-            this.panel4.Location = new System.Drawing.Point(3, 307);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(279, 63);
-            this.panel4.TabIndex = 5;
+            this.pnUser.Controls.Add(this.lbUser);
+            this.pnUser.Controls.Add(this.pictureBox4);
+            this.pnUser.Location = new System.Drawing.Point(3, 307);
+            this.pnUser.Name = "pnUser";
+            this.pnUser.Size = new System.Drawing.Size(279, 63);
+            this.pnUser.TabIndex = 5;
             // 
-            // label4
+            // lbUser
             // 
-            this.label4.Font = new System.Drawing.Font("Century Gothic", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(70, 11);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(130, 40);
-            this.label4.TabIndex = 4;
-            this.label4.Text = "User";
+            this.lbUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbUser.ForeColor = System.Drawing.Color.White;
+            this.lbUser.Location = new System.Drawing.Point(70, 11);
+            this.lbUser.Name = "lbUser";
+            this.lbUser.Size = new System.Drawing.Size(130, 40);
+            this.lbUser.TabIndex = 4;
+            this.lbUser.Text = "User";
+            this.lbUser.Click += new System.EventHandler(this.lbUser_Click);
             // 
             // pictureBox4
             // 
@@ -183,7 +191,7 @@
             // 
             // label2
             // 
-            this.label2.Font = new System.Drawing.Font("Century Gothic", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(115, 20);
             this.label2.Name = "label2";
@@ -202,41 +210,41 @@
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
-            // panel2
+            // panelGUI
             // 
-            this.panel2.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.panel2.Controls.Add(this.comboBox2);
-            this.panel2.Controls.Add(this.dataGridView1);
-            this.panel2.Controls.Add(this.textBox2);
-            this.panel2.Controls.Add(this.textBox1);
-            this.panel2.Controls.Add(this.comboBox1);
-            this.panel2.Controls.Add(this.pictureBox2);
-            this.panel2.Controls.Add(this.lbExit);
-            this.panel2.Controls.Add(this.lbBookList);
-            this.panel2.Controls.Add(this.button4);
-            this.panel2.Controls.Add(this.button3);
-            this.panel2.Controls.Add(this.button2);
-            this.panel2.Controls.Add(this.button1);
-            this.panel2.Controls.Add(this.btnSave);
-            this.panel2.Controls.Add(this.tbPassword);
-            this.panel2.Controls.Add(this.tbUsername);
-            this.panel2.Controls.Add(this.label9);
-            this.panel2.Controls.Add(this.label8);
-            this.panel2.Controls.Add(this.label7);
-            this.panel2.Controls.Add(this.lbPassword);
-            this.panel2.Controls.Add(this.lbUserName);
-            this.panel2.Controls.Add(this.label1);
-            this.panel2.Location = new System.Drawing.Point(300, 12);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(898, 837);
-            this.panel2.TabIndex = 2;
+            this.panelGUI.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.panelGUI.Controls.Add(this.comboBox2);
+            this.panelGUI.Controls.Add(this.dataGridView1);
+            this.panelGUI.Controls.Add(this.textBox2);
+            this.panelGUI.Controls.Add(this.textBox1);
+            this.panelGUI.Controls.Add(this.cbCategory);
+            this.panelGUI.Controls.Add(this.pictureBox2);
+            this.panelGUI.Controls.Add(this.lbExit);
+            this.panelGUI.Controls.Add(this.lbBookList);
+            this.panelGUI.Controls.Add(this.button4);
+            this.panelGUI.Controls.Add(this.button3);
+            this.panelGUI.Controls.Add(this.button2);
+            this.panelGUI.Controls.Add(this.button1);
+            this.panelGUI.Controls.Add(this.btnSave);
+            this.panelGUI.Controls.Add(this.tbPassword);
+            this.panelGUI.Controls.Add(this.tbUsername);
+            this.panelGUI.Controls.Add(this.label9);
+            this.panelGUI.Controls.Add(this.label8);
+            this.panelGUI.Controls.Add(this.label7);
+            this.panelGUI.Controls.Add(this.lbPassword);
+            this.panelGUI.Controls.Add(this.lbUserName);
+            this.panelGUI.Controls.Add(this.label1);
+            this.panelGUI.Location = new System.Drawing.Point(300, 12);
+            this.panelGUI.Name = "panelGUI";
+            this.panelGUI.Size = new System.Drawing.Size(898, 837);
+            this.panelGUI.TabIndex = 2;
             // 
             // comboBox2
             // 
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Location = new System.Drawing.Point(342, 370);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(205, 31);
+            this.comboBox2.Size = new System.Drawing.Size(205, 28);
             this.comboBox2.TabIndex = 14;
             this.comboBox2.Text = "Filter by Category";
             // 
@@ -254,24 +262,24 @@
             // 
             this.textBox2.Location = new System.Drawing.Point(748, 183);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(125, 32);
+            this.textBox2.Size = new System.Drawing.Size(125, 26);
             this.textBox2.TabIndex = 12;
             // 
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(605, 183);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(125, 32);
+            this.textBox1.Size = new System.Drawing.Size(125, 26);
             this.textBox1.TabIndex = 12;
             // 
-            // comboBox1
+            // cbCategory
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(387, 184);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(191, 31);
-            this.comboBox1.TabIndex = 11;
-            this.comboBox1.Text = "Select Category";
+            this.cbCategory.FormattingEnabled = true;
+            this.cbCategory.Location = new System.Drawing.Point(387, 184);
+            this.cbCategory.Name = "cbCategory";
+            this.cbCategory.Size = new System.Drawing.Size(191, 28);
+            this.cbCategory.TabIndex = 11;
+            this.cbCategory.Text = "Select Category";
             // 
             // pictureBox2
             // 
@@ -285,7 +293,7 @@
             // 
             // lbExit
             // 
-            this.lbExit.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lbExit.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lbExit.Location = new System.Drawing.Point(868, 3);
             this.lbExit.Name = "lbExit";
@@ -296,7 +304,7 @@
             // 
             // lbBookList
             // 
-            this.lbBookList.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbBookList.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lbBookList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.lbBookList.Location = new System.Drawing.Point(394, 318);
             this.lbBookList.Name = "lbBookList";
@@ -358,19 +366,19 @@
             // 
             this.tbPassword.Location = new System.Drawing.Point(202, 184);
             this.tbPassword.Name = "tbPassword";
-            this.tbPassword.Size = new System.Drawing.Size(179, 32);
+            this.tbPassword.Size = new System.Drawing.Size(179, 26);
             this.tbPassword.TabIndex = 6;
             // 
             // tbUsername
             // 
             this.tbUsername.Location = new System.Drawing.Point(24, 184);
             this.tbUsername.Name = "tbUsername";
-            this.tbUsername.Size = new System.Drawing.Size(172, 32);
+            this.tbUsername.Size = new System.Drawing.Size(172, 26);
             this.tbUsername.TabIndex = 5;
             // 
             // label9
             // 
-            this.label9.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label9.ForeColor = System.Drawing.Color.DimGray;
             this.label9.Location = new System.Drawing.Point(748, 148);
             this.label9.Name = "label9";
@@ -380,7 +388,7 @@
             // 
             // label8
             // 
-            this.label8.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label8.ForeColor = System.Drawing.Color.DimGray;
             this.label8.Location = new System.Drawing.Point(605, 148);
             this.label8.Name = "label8";
@@ -390,7 +398,7 @@
             // 
             // label7
             // 
-            this.label7.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label7.ForeColor = System.Drawing.Color.DimGray;
             this.label7.Location = new System.Drawing.Point(387, 149);
             this.label7.Name = "label7";
@@ -400,7 +408,7 @@
             // 
             // lbPassword
             // 
-            this.lbPassword.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lbPassword.ForeColor = System.Drawing.Color.DimGray;
             this.lbPassword.Location = new System.Drawing.Point(202, 149);
             this.lbPassword.Name = "lbPassword";
@@ -410,7 +418,7 @@
             // 
             // lbUserName
             // 
-            this.lbUserName.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lbUserName.ForeColor = System.Drawing.Color.DimGray;
             this.lbUserName.Location = new System.Drawing.Point(24, 149);
             this.lbUserName.Name = "lbUserName";
@@ -420,7 +428,7 @@
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.label1.Location = new System.Drawing.Point(367, 3);
             this.label1.Name = "label1";
@@ -431,22 +439,22 @@
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.Lime;
-            this.panel3.Controls.Add(this.label3);
+            this.panel3.Controls.Add(this.lbBooks);
             this.panel3.Controls.Add(this.pictureBox3);
             this.panel3.Location = new System.Drawing.Point(12, 234);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(279, 63);
             this.panel3.TabIndex = 4;
             // 
-            // label3
+            // lbBooks
             // 
-            this.label3.Font = new System.Drawing.Font("Century Gothic", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(70, 10);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(130, 40);
-            this.label3.TabIndex = 4;
-            this.label3.Text = "Books";
+            this.lbBooks.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbBooks.ForeColor = System.Drawing.Color.White;
+            this.lbBooks.Location = new System.Drawing.Point(70, 10);
+            this.lbBooks.Name = "lbBooks";
+            this.lbBooks.Size = new System.Drawing.Size(130, 40);
+            this.lbBooks.TabIndex = 4;
+            this.lbBooks.Text = "Books";
             // 
             // pictureBox3
             // 
@@ -458,35 +466,68 @@
             this.pictureBox3.TabIndex = 0;
             this.pictureBox3.TabStop = false;
             // 
+            // pnLogout
+            // 
+            this.pnLogout.Controls.Add(this.lbLogout);
+            this.pnLogout.Controls.Add(this.pictureBox7);
+            this.pnLogout.Location = new System.Drawing.Point(6, 570);
+            this.pnLogout.Name = "pnLogout";
+            this.pnLogout.Size = new System.Drawing.Size(273, 63);
+            this.pnLogout.TabIndex = 8;
+            this.pnLogout.Visible = false;
+            // 
+            // lbLogout
+            // 
+            this.lbLogout.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbLogout.ForeColor = System.Drawing.Color.White;
+            this.lbLogout.Location = new System.Drawing.Point(71, 16);
+            this.lbLogout.Name = "lbLogout";
+            this.lbLogout.Size = new System.Drawing.Size(165, 30);
+            this.lbLogout.TabIndex = 4;
+            this.lbLogout.Text = "Logout";
+            // 
+            // pictureBox7
+            // 
+            this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
+            this.pictureBox7.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(61, 57);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox7.TabIndex = 0;
+            this.pictureBox7.TabStop = false;
+            // 
             // BookGUI
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 23F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Indigo;
             this.ClientSize = new System.Drawing.Size(1210, 861);
             this.Controls.Add(this.panel3);
-            this.Controls.Add(this.panel2);
+            this.Controls.Add(this.panelGUI);
             this.Controls.Add(this.panel1);
-            this.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.Name = "BookGUI";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "BookGUI";
+            this.Activated += new System.EventHandler(this.BookGUI_Activated);
             this.panel1.ResumeLayout(false);
-            this.panel6.ResumeLayout(false);
+            this.pnLogin.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            this.panel5.ResumeLayout(false);
+            this.pnDashBoard.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            this.panel4.ResumeLayout(false);
+            this.pnUser.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.panel2.ResumeLayout(false);
-            this.panel2.PerformLayout();
+            this.panelGUI.ResumeLayout(false);
+            this.panelGUI.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.panel3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            this.pnLogout.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -494,23 +535,23 @@
         #endregion
 
         private Panel panel1;
-        private Panel panel6;
-        private Label label6;
+        private Panel pnLogin;
+        private Label lbLogin;
         private PictureBox pictureBox6;
-        private Panel panel5;
-        private Label label5;
+        private Panel pnDashBoard;
+        private Label lbDashBoard;
         private PictureBox pictureBox5;
-        private Panel panel4;
-        private Label label4;
+        private Panel pnUser;
+        private Label lbUser;
         private PictureBox pictureBox4;
         private Label label2;
         private PictureBox pictureBox1;
-        private Panel panel2;
+        private Panel panelGUI;
         private ComboBox comboBox2;
         private DataGridView dataGridView1;
         private TextBox textBox2;
         private TextBox textBox1;
-        private ComboBox comboBox1;
+        private ComboBox cbCategory;
         private PictureBox pictureBox2;
         private Label lbExit;
         private Label lbBookList;
@@ -528,7 +569,10 @@
         private Label lbUserName;
         private Label label1;
         private Panel panel3;
-        private Label label3;
+        private Label lbBooks;
         private PictureBox pictureBox3;
+        private Panel pnLogout;
+        private Label lbLogout;
+        private PictureBox pictureBox7;
     }
 }
