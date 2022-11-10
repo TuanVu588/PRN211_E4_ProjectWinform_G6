@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace PRN211_E4_ProjectWinform_G6.GUI
 {
-    public partial class BookGUI : Form
+    public partial class AdminLogin : Form
     {
-        public BookGUI()
+        public AdminLogin()
         {
             InitializeComponent();
-        }
-
-        private void lbExit_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
         }
     }
 }
