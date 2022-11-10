@@ -79,6 +79,7 @@ namespace PRN211_E4_ProjectWinform_G6.GUI
             shopBookGUI.TopLevel=false;
             shopBookGUI.FormBorderStyle = FormBorderStyle.None;
             shopBookGUI.Show();
+            lbBooks.ForeColor = Color.Green;
             toolStripContainer1.ContentPanel.Controls.Clear();
             toolStripContainer1.ContentPanel.Controls.Add(shopBookGUI);
         }
@@ -91,6 +92,11 @@ namespace PRN211_E4_ProjectWinform_G6.GUI
             billingGUI.Show();
             toolStripContainer1.ContentPanel.Controls.Clear();
             toolStripContainer1.ContentPanel.Controls.Add(billingGUI);
+        }
+
+        private void toolStripContainer1_ContentPanel_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
