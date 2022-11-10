@@ -16,5 +16,26 @@ namespace PRN211_E4_ProjectWinform_G6.GUI
         {
             InitializeComponent();
         }
+        int startpos = 0;
+        
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            startpos += 1;
+            Myprogress.Value= startpos;
+            LbPercentage.Text = startpos + "%";
+            if(Myprogress.Value == 100)
+            {
+                Myprogress.Value = 0;
+                timer1.Stop();
+                BookGUI book = new BookGUI();
+                book.Show();
+                this.Hide();
+            }
+        }
+
+        private void MainGUI_Load(object sender, EventArgs e)
+        {
+            timer1.Start();
+        }
     }
 }

@@ -16,5 +16,7 @@ namespace PRN211_E4_ProjectWinform_G6.GUI
         {
             InitializeComponent();
         }
+
+       
     }
 }
