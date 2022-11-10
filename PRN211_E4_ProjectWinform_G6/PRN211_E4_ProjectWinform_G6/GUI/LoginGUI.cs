@@ -30,7 +30,7 @@ namespace PRN211_E4_ProjectWinform_G6.GUI
             string username = tbUsername.Text;
             string password = tbPassword.Text;
             BookStoreContext context = new BookStoreContext();
-            if(username != String.Empty && password != String.Empty)
+            if (username != String.Empty && password != String.Empty)
             {
                 IQueryable<User> admins = context.Users.Where(a => a.Role == 1);
                 IQueryable<User> users = context.Users.Where(a => a.Role == 2);

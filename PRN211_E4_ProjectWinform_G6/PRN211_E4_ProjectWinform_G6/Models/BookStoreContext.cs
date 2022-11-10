@@ -36,6 +36,8 @@ public partial class BookStoreContext : DbContext
             optionsBuilder.UseSqlServer(conf.GetConnectionString("DbConnection"));
         }
     }
+
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Cart>(entity =>
@@ -67,6 +69,7 @@ public partial class BookStoreContext : DbContext
             entity.Property(e => e.Id).HasColumnName("id");
             entity.Property(e => e.OrderDate).HasColumnType("date");
             entity.Property(e => e.PromoCode).HasMaxLength(50);
+            entity.Property(e => e.Total).HasColumnType("numeric(10, 2)");
         });
 
         modelBuilder.Entity<OrderDetail>(entity =>

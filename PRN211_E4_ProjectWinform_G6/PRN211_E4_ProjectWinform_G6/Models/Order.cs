@@ -29,7 +29,7 @@ public partial class Order
 
     public string? Email { get; set; }
 
-    public string? Total { get; set; }
+    public decimal Total { get; set; }
 
     public virtual ICollection<OrderDetail> OrderDetails { get; } = new List<OrderDetail>();
 }

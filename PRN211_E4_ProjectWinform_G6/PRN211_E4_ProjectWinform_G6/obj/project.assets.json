@@ -3759,19 +3759,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ngolu\\.nuget\\packages\\": {}
+    "C:\\Users\\Vi Tuan Vu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code_Group\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6.csproj",
+      "projectUniqueName": "C:\\Users\\Vi Tuan Vu\\OneDrive\\Documents\\GitHub\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6.csproj",
       "projectName": "PRN211_E4_ProjectWinform_G6",
-      "projectPath": "E:\\Code_Group\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6.csproj",
-      "packagesPath": "C:\\Users\\ngolu\\.nuget\\packages\\",
-      "outputPath": "E:\\Code_Group\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\obj\\",
+      "projectPath": "C:\\Users\\Vi Tuan Vu\\OneDrive\\Documents\\GitHub\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6.csproj",
+      "packagesPath": "C:\\Users\\Vi Tuan Vu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vi Tuan Vu\\OneDrive\\Documents\\GitHub\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ngolu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vi Tuan Vu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3831,7 +3831,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -18,8 +18,6 @@ namespace PRN211_E4_ProjectWinform_G6.GUI
         {
             InitializeComponent();
             context = new BookStoreContext();
-            
-
         }
 
         private void lbExit_Click(object sender, EventArgs e)
@@ -44,21 +42,17 @@ namespace PRN211_E4_ProjectWinform_G6.GUI
         {
             if(Settings.UserName != null && Settings.UserName != " ")
             {
-                lbLogin.Text = $"Logout({Settings.UserName})";
+                pnLogout.Visible = true;
+                lbLogout.Text = $"Logout({Settings.UserName})";
+                pnLogin.Visible = false;
             }
-            else
-            {
-                lbLogin.Text = $"Login";
-            }
-            if (Settings.Role == 2||Settings.Role == 3 && Settings.UserName != null && Settings.UserName != " ")
+            
+            if (Settings.Role == 2&& Settings.UserName != null && Settings.UserName != " ")
             {
                 pnDashBoard.Visible = false;
-                
-
             }else if(Settings.Role == 1 && Settings.UserName != null && Settings.UserName != " ")
             {
-                pnDashBoard.Visible = true;
-                
+                pnDashBoard.Visible = true;               
             }
         }
 
@@ -91,6 +85,21 @@ namespace PRN211_E4_ProjectWinform_G6.GUI
             billingGUI.Show();
             toolStripContainer1.ContentPanel.Controls.Clear();
             toolStripContainer1.ContentPanel.Controls.Add(billingGUI);
+        }
+
+        private void exitProgram_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void lbLogout_Click(object sender, EventArgs e)
+        {
+            ShoppingCart cart = new ShoppingCart();
+            pnLogout.Visible=false;
+            pnLogin.Visible = true;
+            cart = ShoppingCart.GetCart();
+            Settings.UserName = null;
+            Settings.CartId = null;
         }
     }
 }

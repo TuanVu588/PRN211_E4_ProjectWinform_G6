@@ -30,6 +30,9 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BookGUI));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.exitProgram = new System.Windows.Forms.Label();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
@@ -49,6 +52,8 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.toolStripContainer1 = new System.Windows.Forms.ToolStripContainer();
             this.panel1.SuspendLayout();
+            this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.pnLogin.SuspendLayout();
@@ -66,6 +71,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.panel1.Controls.Add(this.panel4);
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Controls.Add(this.pnLogin);
             this.panel1.Controls.Add(this.pnLogout);
@@ -77,6 +83,36 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(282, 837);
             this.panel1.TabIndex = 1;
+            // 
+            // panel4
+            // 
+            this.panel4.Controls.Add(this.exitProgram);
+            this.panel4.Controls.Add(this.pictureBox4);
+            this.panel4.Location = new System.Drawing.Point(3, 651);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(273, 63);
+            this.panel4.TabIndex = 10;
+            // 
+            // exitProgram
+            // 
+            this.exitProgram.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.exitProgram.ForeColor = System.Drawing.Color.White;
+            this.exitProgram.Location = new System.Drawing.Point(71, 16);
+            this.exitProgram.Name = "exitProgram";
+            this.exitProgram.Size = new System.Drawing.Size(165, 30);
+            this.exitProgram.TabIndex = 4;
+            this.exitProgram.Text = "Exit";
+            this.exitProgram.Click += new System.EventHandler(this.exitProgram_Click);
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(61, 57);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox4.TabIndex = 0;
+            this.pictureBox4.TabStop = false;
             // 
             // panel2
             // 
@@ -93,7 +129,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(70, 12);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(169, 40);
+            this.label1.Size = new System.Drawing.Size(76, 27);
             this.label1.TabIndex = 4;
             this.label1.Text = " Cart";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -143,7 +179,7 @@
             // 
             this.pnLogout.Controls.Add(this.lbLogout);
             this.pnLogout.Controls.Add(this.pictureBox7);
-            this.pnLogout.Location = new System.Drawing.Point(6, 573);
+            this.pnLogout.Location = new System.Drawing.Point(3, 561);
             this.pnLogout.Name = "pnLogout";
             this.pnLogout.Size = new System.Drawing.Size(273, 63);
             this.pnLogout.TabIndex = 8;
@@ -158,6 +194,7 @@
             this.lbLogout.Size = new System.Drawing.Size(165, 30);
             this.lbLogout.TabIndex = 4;
             this.lbLogout.Text = "Logout";
+            this.lbLogout.Click += new System.EventHandler(this.lbLogout_Click);
             // 
             // pictureBox7
             // 
@@ -208,6 +245,7 @@
             this.pnDashBoard.Name = "pnDashBoard";
             this.pnDashBoard.Size = new System.Drawing.Size(273, 63);
             this.pnDashBoard.TabIndex = 6;
+            this.pnDashBoard.Visible = false;
             // 
             // lbDashBoard
             // 
@@ -256,19 +294,19 @@
             // 
             // toolStripContainer1.ContentPanel
             // 
-            this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(895, 815);
+            this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(1061, 840);
             this.toolStripContainer1.Location = new System.Drawing.Point(303, 9);
             this.toolStripContainer1.Name = "toolStripContainer1";
-            this.toolStripContainer1.Size = new System.Drawing.Size(895, 840);
+            this.toolStripContainer1.Size = new System.Drawing.Size(1061, 840);
             this.toolStripContainer1.TabIndex = 5;
             this.toolStripContainer1.Text = "toolStripContainer1";
             // 
             // BookGUI
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Indigo;
-            this.ClientSize = new System.Drawing.Size(1210, 861);
+            this.ClientSize = new System.Drawing.Size(1376, 861);
             this.Controls.Add(this.toolStripContainer1);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
@@ -279,6 +317,8 @@
             this.Text = "BookGUI";
             this.Activated += new System.EventHandler(this.BookGUI_Activated);
             this.panel1.ResumeLayout(false);
+            this.panel4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.pnLogin.ResumeLayout(false);
@@ -317,5 +357,8 @@
         private Panel panel2;
         private Label label1;
         private PictureBox pictureBox2;
+        private Panel panel4;
+        private Label exitProgram;
+        private PictureBox pictureBox4;
     }
 }

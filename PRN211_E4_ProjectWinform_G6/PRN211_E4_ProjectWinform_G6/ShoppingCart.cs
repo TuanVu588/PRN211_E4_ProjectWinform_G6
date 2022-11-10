@@ -11,21 +11,21 @@ namespace PRN211_E4_ProjectWinform_G6
     {
         BookStoreContext storeDB = new BookStoreContext();
         string ShoppingCartId { get; set; }
-   //     public const string CartSessionKey = "CartId";
+        public const string CartSessionKey = "CartId";
         public static ShoppingCart GetCart()
         {
             var cart = new ShoppingCart();
             cart.ShoppingCartId = cart.GetCartId();
             return cart;
         }
-  
+
         public void AddToCart(Product product)
         {
             // Get the matching cart and album instances
             var cartItem = storeDB.Carts.SingleOrDefault(
                 c => c.CartId == ShoppingCartId
                 && c.ProductId == product.Id);
-                
+
             if (cartItem == null)
             {
                 // Create a new cart item if no cart item exists
@@ -52,7 +52,7 @@ namespace PRN211_E4_ProjectWinform_G6
             // Get the matching cart and album id
             var cartItem = storeDB.Carts.SingleOrDefault(
                 c => c.CartId == ShoppingCartId
-                && c.Id == id);               
+                && c.Id == id);
 
             int itemCount = 0;
             if (cartItem != null)
@@ -111,21 +111,21 @@ namespace PRN211_E4_ProjectWinform_G6
         }
         public int CreateOrder(Order order)
         {
-         
+
             var cartItems = GetCartItems();
 
             // Save the order
             try
             {
-                storeDB.Orders.Add(order);                
+                storeDB.Orders.Add(order);
                 storeDB.SaveChanges();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
                 return -1;
             }
-            int orderID = storeDB.Orders.Select(o => o.Id).Max();            
+            int orderID = storeDB.Orders.Select(o => o.Id).Max();
             // Iterate over the items in the cart, adding the order details for each
             foreach (var item in cartItems)
             {
@@ -141,7 +141,7 @@ namespace PRN211_E4_ProjectWinform_G6
                     storeDB.OrderDetails.Add(orderDetail);
                     storeDB.SaveChanges();
                 }
-                catch(Exception ex)
+                catch (Exception ex)
                 {
                     MessageBox.Show(ex.Message);
                     return -1;
