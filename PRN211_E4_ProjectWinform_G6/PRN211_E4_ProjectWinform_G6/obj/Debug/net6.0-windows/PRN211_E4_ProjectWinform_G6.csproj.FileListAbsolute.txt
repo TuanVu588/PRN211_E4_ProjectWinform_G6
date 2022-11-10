@@ -5,10 +5,8 @@ E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_
 E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.pdb
 E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.csproj.AssemblyReference.cache
 E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.BookGUI.resources
-E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.Dashboar.resources
 E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.LoginGUI.resources
 E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.MainGUI.resources
-E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.Users.resources
 E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.Properties.Resources.resources
 E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.csproj.GenerateResource.cache
 E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GeneratedMSBuildEditorConfig.editorconfig
@@ -20,3 +18,209 @@ E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_
 E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.pdb
 E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.genruntimeconfig.cache
 E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\ref\PRN211_E4_ProjectWinform_G6.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.exe
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.deps.json
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.runtimeconfig.json
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.pdb
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.csproj.AssemblyReference.cache
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.BookGUI.resources
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.LoginGUI.resources
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.MainGUI.resources
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.Properties.Resources.resources
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.csproj.GenerateResource.cache
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.AssemblyInfoInputs.cache
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.AssemblyInfo.cs
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.csproj.CoreCompileInputs.cache
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.csproj.CopyComplete
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\refint\PRN211_E4_ProjectWinform_G6.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.pdb
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.genruntimeconfig.cache
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\ref\PRN211_E4_ProjectWinform_G6.dll
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.BillingGUI.resources
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.DashboardGUI.resources
+C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.UsersGUI.resources
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\appsettings.json
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Humanizer.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.BillingGUI.resources
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.DashboardGUI.resources
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.csproj.CopyComplete
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.ShopBookGUI.resources
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.CheckOutGUI.resources
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.RegisterGUI.resources
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\appsettings.json
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.exe
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.deps.json
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.runtimeconfig.json
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.pdb
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Humanizer.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.csproj.AssemblyReference.cache
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.BillingGUI.resources
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.BookGUI.resources
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.CheckOutGUI.resources
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.DashboardGUI.resources
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.LoginGUI.resources
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.MainGUI.resources
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.RegisterGUI.resources
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.ShopBookGUI.resources
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.Properties.Resources.resources
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.csproj.GenerateResource.cache
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.AssemblyInfoInputs.cache
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.AssemblyInfo.cs
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.csproj.CoreCompileInputs.cache
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.csproj.CopyComplete
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\refint\PRN211_E4_ProjectWinform_G6.dll
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.pdb
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.genruntimeconfig.cache
+D:\projectPRN211\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\ref\PRN211_E4_ProjectWinform_G6.dll

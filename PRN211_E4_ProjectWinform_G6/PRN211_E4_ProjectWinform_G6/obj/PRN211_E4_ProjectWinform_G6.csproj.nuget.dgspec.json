@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code_Group\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6.csproj": {}
+    "D:\\projectPRN211\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6.csproj": {}
   },
   "projects": {
-    "E:\\Code_Group\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6.csproj": {
+    "D:\\projectPRN211\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code_Group\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6.csproj",
+        "projectUniqueName": "D:\\projectPRN211\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6.csproj",
         "projectName": "PRN211_E4_ProjectWinform_G6",
-        "projectPath": "E:\\Code_Group\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6.csproj",
-        "packagesPath": "C:\\Users\\ngolu\\.nuget\\packages\\",
-        "outputPath": "E:\\Code_Group\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\obj\\",
+        "projectPath": "D:\\projectPRN211\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6.csproj",
+        "packagesPath": "C:\\Users\\vuhai\\.nuget\\packages\\",
+        "outputPath": "D:\\projectPRN211\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\PRN211_E4_ProjectWinform_G6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ngolu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vuhai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -39,14 +39,29 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
