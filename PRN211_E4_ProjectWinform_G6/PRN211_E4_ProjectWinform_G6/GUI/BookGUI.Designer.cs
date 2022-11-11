@@ -30,6 +30,9 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BookGUI));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.panelCRUD = new System.Windows.Forms.Panel();
+            this.label3 = new System.Windows.Forms.Label();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.panel4 = new System.Windows.Forms.Panel();
             this.exitProgram = new System.Windows.Forms.Label();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
@@ -52,6 +55,8 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.toolStripContainer1 = new System.Windows.Forms.ToolStripContainer();
             this.panel1.SuspendLayout();
+            this.panelCRUD.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.panel2.SuspendLayout();
@@ -71,6 +76,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.panel1.Controls.Add(this.panelCRUD);
             this.panel1.Controls.Add(this.panel4);
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Controls.Add(this.pnLogin);
@@ -83,6 +89,38 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(282, 837);
             this.panel1.TabIndex = 1;
+            // 
+            // panelCRUD
+            // 
+            this.panelCRUD.Controls.Add(this.label3);
+            this.panelCRUD.Controls.Add(this.pictureBox8);
+            this.panelCRUD.Location = new System.Drawing.Point(3, 146);
+            this.panelCRUD.Name = "panelCRUD";
+            this.panelCRUD.Size = new System.Drawing.Size(273, 63);
+            this.panelCRUD.TabIndex = 11;
+            this.panelCRUD.Visible = false;
+            this.panelCRUD.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
+            // 
+            // label3
+            // 
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label3.ForeColor = System.Drawing.Color.White;
+            this.label3.Location = new System.Drawing.Point(70, 12);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(169, 40);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "CRUD Book";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // pictureBox8
+            // 
+            this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
+            this.pictureBox8.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(61, 57);
+            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox8.TabIndex = 0;
+            this.pictureBox8.TabStop = false;
             // 
             // panel4
             // 
@@ -294,19 +332,19 @@
             // 
             // toolStripContainer1.ContentPanel
             // 
-            this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(1061, 840);
+            this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(1477, 815);
             this.toolStripContainer1.Location = new System.Drawing.Point(303, 9);
             this.toolStripContainer1.Name = "toolStripContainer1";
-            this.toolStripContainer1.Size = new System.Drawing.Size(1061, 840);
+            this.toolStripContainer1.Size = new System.Drawing.Size(1477, 840);
             this.toolStripContainer1.TabIndex = 5;
             this.toolStripContainer1.Text = "toolStripContainer1";
             // 
             // BookGUI
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Indigo;
-            this.ClientSize = new System.Drawing.Size(1376, 861);
+            this.ClientSize = new System.Drawing.Size(1792, 861);
             this.Controls.Add(this.toolStripContainer1);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
@@ -317,6 +355,8 @@
             this.Text = "BookGUI";
             this.Activated += new System.EventHandler(this.BookGUI_Activated);
             this.panel1.ResumeLayout(false);
+            this.panelCRUD.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
             this.panel4.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.panel2.ResumeLayout(false);
@@ -360,5 +400,8 @@
         private Panel panel4;
         private Label exitProgram;
         private PictureBox pictureBox4;
+        private Panel panelCRUD;
+        private Label label3;
+        private PictureBox pictureBox8;
     }
 }

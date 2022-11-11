@@ -45,6 +45,7 @@ namespace PRN211_E4_ProjectWinform_G6.GUI
                 pnLogout.Visible = true;
                 lbLogout.Text = $"Logout({Settings.UserName})";
                 pnLogin.Visible = false;
+                panelCRUD.Visible = false;
             }
             
             if (Settings.Role == 2&& Settings.UserName != null && Settings.UserName != " ")
@@ -52,7 +53,8 @@ namespace PRN211_E4_ProjectWinform_G6.GUI
                 pnDashBoard.Visible = false;
             }else if(Settings.Role == 1 && Settings.UserName != null && Settings.UserName != " ")
             {
-                pnDashBoard.Visible = true;               
+                pnDashBoard.Visible = true;
+                panelCRUD.Visible = true;
             }
         }
 
@@ -100,6 +102,21 @@ namespace PRN211_E4_ProjectWinform_G6.GUI
             cart = ShoppingCart.GetCart();
             Settings.UserName = null;
             Settings.CartId = null;
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            CRUDBookGUI cRUDBookGUI = new CRUDBookGUI();
+            cRUDBookGUI.TopLevel=false;
+            cRUDBookGUI.FormBorderStyle = FormBorderStyle.None;
+            cRUDBookGUI.Show();
+            toolStripContainer1.ContentPanel.Controls.Clear();
+            toolStripContainer1.ContentPanel.Controls.Add(cRUDBookGUI);
+        }
+
+        private void panel5_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

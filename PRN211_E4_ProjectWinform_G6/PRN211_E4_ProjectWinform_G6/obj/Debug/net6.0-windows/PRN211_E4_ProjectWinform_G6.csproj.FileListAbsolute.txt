@@ -150,3 +150,4 @@ E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_
 C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.CheckOutGUI.resources
 C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.RegisterGUI.resources
 C:\Users\Vi Tuan Vu\OneDrive\Documents\GitHub\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.ShopBookGUI.resources
+E:\Code_Group\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\PRN211_E4_ProjectWinform_G6\obj\Debug\net6.0-windows\PRN211_E4_ProjectWinform_G6.GUI.CRUDBookGUI.resources
